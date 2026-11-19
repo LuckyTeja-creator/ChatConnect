@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "ChatConnect",
+    "slug": "chatconnect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.chatconnect.app",
+      "versionCode": 1
+    }
+  }
+}
